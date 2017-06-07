@@ -37,7 +37,7 @@ Esta es una estructura de archivos básica para la que fueron configuradas las t
 ```
 
 ## Requerimientos
-**Node JS**
+**Node JS** 
 Para instalar NodeJs, dirigite a su [sitio web](https://nodejs.org/es/), descarga el instalador y ejecutalo.
 Una vez instalado, abri una ventana de comandos (cmd en Windows | terminal en Mac) y ejecutá el siguiente comando:
 ```
@@ -48,7 +48,7 @@ Esto te devolverá la versión de Node instalada. De la misma manera podemos che
 npm -v
 ```
 
-**Gulp**
+**Gulp** 
 Una vez instalado Node y npm, debes instalar gulp-cli para tenerlo disponible en todos tus proyectos. Abri una ventana de comandos y ejecutá el siguiente comando:
 ```
 npm install -g gulp-cli
